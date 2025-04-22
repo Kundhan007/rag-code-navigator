@@ -1,0 +1,2 @@
+
+basic vector db setup
