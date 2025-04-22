@@ -15,3 +15,6 @@ these are the following questions to be answered:
 4. file based description
 
 
+note:
+this is very much stremlined for the the python flask application
+for other languages change the vector db config file
